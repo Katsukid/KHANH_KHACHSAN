@@ -1432,3 +1432,6 @@ C:\Users\ADMIRAL\Documents\GitHub\QuanLiKhachSan\QuanLiKhachSan\Solution\QuanLiK
 C:\Users\ADMIRAL\Documents\GitHub\QuanLiKhachSan\QuanLiKhachSan\Solution\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
 C:\Users\ADMIRAL\Documents\GitHub\QuanLiKhachSan\QuanLiKhachSan\Solution\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
 C:\Users\ADMIRAL\Documents\GitHub\QuanLiKhachSan\QuanLiKhachSan\Solution\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojAssemblyReference.cache
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
