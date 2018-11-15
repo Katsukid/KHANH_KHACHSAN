@@ -31,12 +31,9 @@
                System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Login));
                this.panelControl1 = new DevExpress.XtraEditors.PanelControl();
                this.btnThoat = new DevExpress.XtraEditors.SimpleButton();
-               this.label4 = new System.Windows.Forms.Label();
-               this.btnTroGiup = new DevExpress.XtraEditors.SimpleButton();
                this.panelControl2 = new DevExpress.XtraEditors.PanelControl();
                this.label3 = new System.Windows.Forms.Label();
                this.separatorControl1 = new DevExpress.XtraEditors.SeparatorControl();
-               this.pictureBox1 = new System.Windows.Forms.PictureBox();
                this.separatorControl2 = new DevExpress.XtraEditors.SeparatorControl();
                this.btnHuy = new DevExpress.XtraEditors.SimpleButton();
                this.btnDangNhap = new DevExpress.XtraEditors.SimpleButton();
@@ -48,7 +45,6 @@
                this.panelControl1.SuspendLayout();
                ((System.ComponentModel.ISupportInitialize)(this.panelControl2)).BeginInit();
                ((System.ComponentModel.ISupportInitialize)(this.separatorControl1)).BeginInit();
-               ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
                ((System.ComponentModel.ISupportInitialize)(this.separatorControl2)).BeginInit();
                this.SuspendLayout();
                // 
@@ -61,7 +57,7 @@
                this.panelControl1.Location = new System.Drawing.Point(0, 0);
                this.panelControl1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
                this.panelControl1.Name = "panelControl1";
-               this.panelControl1.Size = new System.Drawing.Size(1103, 46);
+               this.panelControl1.Size = new System.Drawing.Size(677, 46);
                this.panelControl1.TabIndex = 1;
                // 
                // btnThoat
@@ -73,38 +69,12 @@
                this.btnThoat.Appearance.Options.UseBorderColor = true;
                this.btnThoat.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Office2003;
                this.btnThoat.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnThoat.ImageOptions.Image")));
-               this.btnThoat.Location = new System.Drawing.Point(1056, 0);
+               this.btnThoat.Location = new System.Drawing.Point(623, 6);
                this.btnThoat.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
                this.btnThoat.Name = "btnThoat";
                this.btnThoat.Size = new System.Drawing.Size(44, 46);
                this.btnThoat.TabIndex = 0;
                this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
-               // 
-               // label4
-               // 
-               this.label4.AutoSize = true;
-               this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-               this.label4.Location = new System.Drawing.Point(1035, 539);
-               this.label4.Name = "label4";
-               this.label4.Size = new System.Drawing.Size(56, 25);
-               this.label4.TabIndex = 2;
-               this.label4.Text = "Help";
-               // 
-               // btnTroGiup
-               // 
-               this.btnTroGiup.Appearance.BackColor = System.Drawing.Color.Transparent;
-               this.btnTroGiup.Appearance.BackColor2 = System.Drawing.Color.Transparent;
-               this.btnTroGiup.Appearance.BorderColor = System.Drawing.Color.Transparent;
-               this.btnTroGiup.Appearance.Options.UseBackColor = true;
-               this.btnTroGiup.Appearance.Options.UseBorderColor = true;
-               this.btnTroGiup.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Office2003;
-               this.btnTroGiup.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnTroGiup.ImageOptions.Image")));
-               this.btnTroGiup.Location = new System.Drawing.Point(985, 531);
-               this.btnTroGiup.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-               this.btnTroGiup.Name = "btnTroGiup";
-               this.btnTroGiup.Size = new System.Drawing.Size(44, 46);
-               this.btnTroGiup.TabIndex = 1;
-               this.btnTroGiup.Click += new System.EventHandler(this.btnTroGiup_Click);
                // 
                // panelControl2
                // 
@@ -117,7 +87,7 @@
                this.panelControl2.Location = new System.Drawing.Point(0, 46);
                this.panelControl2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
                this.panelControl2.Name = "panelControl2";
-               this.panelControl2.Size = new System.Drawing.Size(1103, 14);
+               this.panelControl2.Size = new System.Drawing.Size(677, 34);
                this.panelControl2.TabIndex = 7;
                // 
                // label3
@@ -141,17 +111,6 @@
                this.separatorControl1.Size = new System.Drawing.Size(701, 28);
                this.separatorControl1.TabIndex = 9;
                // 
-               // pictureBox1
-               // 
-               this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-               this.pictureBox1.Location = new System.Drawing.Point(689, 132);
-               this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-               this.pictureBox1.Name = "pictureBox1";
-               this.pictureBox1.Size = new System.Drawing.Size(365, 394);
-               this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-               this.pictureBox1.TabIndex = 10;
-               this.pictureBox1.TabStop = false;
-               // 
                // separatorControl2
                // 
                this.separatorControl2.BackColor = System.Drawing.Color.Transparent;
@@ -173,7 +132,7 @@
                this.btnHuy.Appearance.Options.UseForeColor = true;
                this.btnHuy.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Office2003;
                this.btnHuy.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnHuy.ImageOptions.Image")));
-               this.btnHuy.Location = new System.Drawing.Point(425, 466);
+               this.btnHuy.Location = new System.Drawing.Point(425, 452);
                this.btnHuy.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
                this.btnHuy.Name = "btnHuy";
                this.btnHuy.Size = new System.Drawing.Size(147, 60);
@@ -192,7 +151,7 @@
                this.btnDangNhap.Appearance.Options.UseForeColor = true;
                this.btnDangNhap.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Office2003;
                this.btnDangNhap.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnDangNhap.ImageOptions.Image")));
-               this.btnDangNhap.Location = new System.Drawing.Point(170, 466);
+               this.btnDangNhap.Location = new System.Drawing.Point(114, 452);
                this.btnDangNhap.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
                this.btnDangNhap.Name = "btnDangNhap";
                this.btnDangNhap.Size = new System.Drawing.Size(157, 60);
@@ -247,17 +206,14 @@
                this.Appearance.Options.UseBackColor = true;
                this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
                this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-               this.ClientSize = new System.Drawing.Size(1103, 584);
+               this.ClientSize = new System.Drawing.Size(677, 584);
                this.Controls.Add(this.btnHuy);
-               this.Controls.Add(this.btnTroGiup);
-               this.Controls.Add(this.label4);
                this.Controls.Add(this.btnDangNhap);
                this.Controls.Add(this.label2);
                this.Controls.Add(this.label1);
                this.Controls.Add(this.txtMatKhau);
                this.Controls.Add(this.txtTenDangNhap);
                this.Controls.Add(this.separatorControl2);
-               this.Controls.Add(this.pictureBox1);
                this.Controls.Add(this.separatorControl1);
                this.Controls.Add(this.label3);
                this.Controls.Add(this.panelControl2);
@@ -273,7 +229,6 @@
                this.panelControl1.ResumeLayout(false);
                ((System.ComponentModel.ISupportInitialize)(this.panelControl2)).EndInit();
                ((System.ComponentModel.ISupportInitialize)(this.separatorControl1)).EndInit();
-               ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
                ((System.ComponentModel.ISupportInitialize)(this.separatorControl2)).EndInit();
                this.ResumeLayout(false);
                this.PerformLayout();
@@ -284,12 +239,9 @@
 
         private DevExpress.XtraEditors.PanelControl panelControl1;
         private DevExpress.XtraEditors.SimpleButton btnThoat;
-        private System.Windows.Forms.Label label4;
-        private DevExpress.XtraEditors.SimpleButton btnTroGiup;
         private DevExpress.XtraEditors.PanelControl panelControl2;
         private System.Windows.Forms.Label label3;
         private DevExpress.XtraEditors.SeparatorControl separatorControl1;
-        private System.Windows.Forms.PictureBox pictureBox1;
         private DevExpress.XtraEditors.SeparatorControl separatorControl2;
         private DevExpress.XtraEditors.SimpleButton btnHuy;
         private DevExpress.XtraEditors.SimpleButton btnDangNhap;

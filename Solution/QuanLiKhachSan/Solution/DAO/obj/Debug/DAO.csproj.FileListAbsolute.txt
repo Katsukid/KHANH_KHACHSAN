@@ -73,3 +73,15 @@ G:\GitHub\QuanLiKhachSan\QuanLiKhachSan\Solution\DAO\bin\Debug\EntityFramework.d
 G:\GitHub\QuanLiKhachSan\QuanLiKhachSan\Solution\DAO\bin\Debug\DTO.pdb
 G:\GitHub\QuanLiKhachSan\QuanLiKhachSan\Solution\DAO\bin\Debug\EntityFramework.xml
 G:\GitHub\QuanLiKhachSan\QuanLiKhachSan\Solution\DAO\obj\Debug\DAO.csproj.CopyComplete
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\DAO\bin\Debug\DAO.dll.config
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\DAO\bin\Debug\DAO.dll
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\DAO\bin\Debug\DAO.pdb
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\DAO\bin\Debug\DTO.dll
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\DAO\bin\Debug\EntityFramework.dll
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\DAO\bin\Debug\DTO.pdb
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\DAO\bin\Debug\EntityFramework.xml
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\DAO\obj\Debug\DAO.csproj.CopyComplete
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\DAO\obj\Debug\DAO.dll
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\DAO\obj\Debug\DAO.pdb

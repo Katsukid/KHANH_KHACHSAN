@@ -85,3 +85,17 @@ G:\GitHub\QuanLiKhachSan\QuanLiKhachSan\Solution\BUS\bin\Debug\DAO.dll.config
 G:\GitHub\QuanLiKhachSan\QuanLiKhachSan\Solution\BUS\bin\Debug\DTO.pdb
 G:\GitHub\QuanLiKhachSan\QuanLiKhachSan\Solution\BUS\bin\Debug\EntityFramework.xml
 G:\GitHub\QuanLiKhachSan\QuanLiKhachSan\Solution\BUS\obj\Debug\BUS.csproj.CopyComplete
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\BUS\bin\Debug\BUS.dll
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\BUS\bin\Debug\BUS.pdb
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\BUS\bin\Debug\DAO.dll
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\BUS\bin\Debug\DTO.dll
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\BUS\bin\Debug\EntityFramework.dll
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\BUS\bin\Debug\DAO.pdb
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\BUS\bin\Debug\DAO.dll.config
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\BUS\bin\Debug\DTO.pdb
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\BUS\bin\Debug\EntityFramework.xml
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\BUS\obj\Debug\BUS.csproj.CopyComplete
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\BUS\obj\Debug\BUS.dll
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\BUS\obj\Debug\BUS.pdb

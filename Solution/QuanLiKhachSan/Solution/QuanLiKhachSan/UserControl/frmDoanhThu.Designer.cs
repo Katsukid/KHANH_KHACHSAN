@@ -109,7 +109,7 @@
             "11",
             "12"});
                this.cmbThang.Location = new System.Drawing.Point(167, 95);
-               this.cmbThang.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.cmbThang.Margin = new System.Windows.Forms.Padding(4);
                this.cmbThang.Name = "cmbThang";
                this.cmbThang.Size = new System.Drawing.Size(197, 32);
                this.cmbThang.TabIndex = 19;
@@ -117,7 +117,7 @@
                // txtNam
                // 
                this.txtNam.Location = new System.Drawing.Point(497, 95);
-               this.txtNam.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.txtNam.Margin = new System.Windows.Forms.Padding(4);
                this.txtNam.Name = "txtNam";
                this.txtNam.Size = new System.Drawing.Size(178, 32);
                this.txtNam.TabIndex = 20;
@@ -125,7 +125,7 @@
                // txtTongTien
                // 
                this.txtTongTien.Location = new System.Drawing.Point(258, 145);
-               this.txtTongTien.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.txtTongTien.Margin = new System.Windows.Forms.Padding(4);
                this.txtTongTien.Name = "txtTongTien";
                this.txtTongTien.Size = new System.Drawing.Size(417, 32);
                this.txtTongTien.TabIndex = 21;
@@ -144,7 +144,7 @@
                this.btnXem.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Office2003;
                this.btnXem.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnXem.ImageOptions.Image")));
                this.btnXem.Location = new System.Drawing.Point(730, 100);
-               this.btnXem.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.btnXem.Margin = new System.Windows.Forms.Padding(4);
                this.btnXem.Name = "btnXem";
                this.btnXem.Size = new System.Drawing.Size(172, 68);
                this.btnXem.TabIndex = 24;
@@ -172,7 +172,7 @@
                // 
                // grcTenLoaiPhong
                // 
-               this.grcTenLoaiPhong.Caption = "Tên Loại Phòng";
+               this.grcTenLoaiPhong.Caption = "Loại Phòng";
                this.grcTenLoaiPhong.FieldName = "TenLoaiPhong";
                this.grcTenLoaiPhong.Name = "grcTenLoaiPhong";
                this.grcTenLoaiPhong.Visible = true;
@@ -180,12 +180,12 @@
                // 
                // grcTongDoanhThu
                // 
-               this.grcTongDoanhThu.Caption = "Tổng Doanh Thu";
+               this.grcTongDoanhThu.Caption = "Doanh Thu";
                this.grcTongDoanhThu.ColumnEdit = this.repositoryItemTextEdit1;
                this.grcTongDoanhThu.FieldName = "TongDoanhThu";
                this.grcTongDoanhThu.Name = "grcTongDoanhThu";
                this.grcTongDoanhThu.Visible = true;
-               this.grcTongDoanhThu.VisibleIndex = 1;
+               this.grcTongDoanhThu.VisibleIndex = 3;
                // 
                // grcThang
                // 
@@ -193,7 +193,7 @@
                this.grcThang.FieldName = "Thang";
                this.grcThang.Name = "grcThang";
                this.grcThang.Visible = true;
-               this.grcThang.VisibleIndex = 2;
+               this.grcThang.VisibleIndex = 1;
                // 
                // grcNam
                // 
@@ -201,7 +201,7 @@
                this.grcNam.FieldName = "Nam";
                this.grcNam.Name = "grcNam";
                this.grcNam.Visible = true;
-               this.grcNam.VisibleIndex = 3;
+               this.grcNam.VisibleIndex = 2;
                // 
                // grcTiLe
                // 
@@ -213,10 +213,10 @@
                // 
                // gridControl1
                // 
-               this.gridControl1.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.gridControl1.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4);
                this.gridControl1.Location = new System.Drawing.Point(84, 195);
                this.gridControl1.MainView = this.gridView1;
-               this.gridControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+               this.gridControl1.Margin = new System.Windows.Forms.Padding(4);
                this.gridControl1.Name = "gridControl1";
                this.gridControl1.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repositoryItemTextEdit1});
@@ -240,7 +240,7 @@
                this.Controls.Add(this.label3);
                this.Controls.Add(this.label2);
                this.Controls.Add(this.label1);
-               this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+               this.Margin = new System.Windows.Forms.Padding(5);
                this.Name = "frmDoanhThu";
                this.Size = new System.Drawing.Size(1468, 789);
                ((System.ComponentModel.ISupportInitialize)(this.repositoryItemTextEdit1)).EndInit();

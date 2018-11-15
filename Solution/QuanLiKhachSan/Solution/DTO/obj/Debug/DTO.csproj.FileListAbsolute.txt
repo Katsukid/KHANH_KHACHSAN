@@ -37,3 +37,9 @@ C:\Users\ADMIRAL\Documents\GitHub\QuanLiKhachSan\QuanLiKhachSan\Solution\DTO\obj
 G:\GitHub\QuanLiKhachSan\QuanLiKhachSan\Solution\DTO\bin\Debug\DTO.dll
 G:\GitHub\QuanLiKhachSan\QuanLiKhachSan\Solution\DTO\bin\Debug\DTO.pdb
 G:\GitHub\QuanLiKhachSan\QuanLiKhachSan\Solution\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\DTO\bin\Debug\DTO.dll
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\DTO\bin\Debug\DTO.pdb
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\DTO\obj\Debug\DTO.dll
+G:\GitHub\KHANH_KHACHSAN\Solution\QuanLiKhachSan\Solution\DTO\obj\Debug\DTO.pdb
