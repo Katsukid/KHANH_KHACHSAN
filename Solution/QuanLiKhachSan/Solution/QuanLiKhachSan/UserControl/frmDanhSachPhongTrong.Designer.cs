@@ -59,12 +59,12 @@
                // 
                // txtGhiChu
                // 
-               this.txtGhiChu.Location = new System.Drawing.Point(21, 256);
+               this.txtGhiChu.Location = new System.Drawing.Point(21, 243);
                this.txtGhiChu.Margin = new System.Windows.Forms.Padding(4);
                this.txtGhiChu.Multiline = true;
                this.txtGhiChu.Name = "txtGhiChu";
                this.txtGhiChu.ReadOnly = true;
-               this.txtGhiChu.Size = new System.Drawing.Size(764, 216);
+               this.txtGhiChu.Size = new System.Drawing.Size(764, 229);
                this.txtGhiChu.TabIndex = 27;
                // 
                // txtDonGia
@@ -91,7 +91,7 @@
                this.label5.AutoSize = true;
                this.label5.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.label5.ForeColor = System.Drawing.Color.Black;
-               this.label5.Location = new System.Drawing.Point(20, 215);
+               this.label5.Location = new System.Drawing.Point(20, 203);
                this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
                this.label5.Name = "label5";
                this.label5.Size = new System.Drawing.Size(76, 24);
@@ -156,10 +156,10 @@
                this.btnLamMoi.Appearance.Options.UseForeColor = true;
                this.btnLamMoi.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Office2003;
                this.btnLamMoi.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnLamMoi.ImageOptions.Image")));
-               this.btnLamMoi.Location = new System.Drawing.Point(555, 502);
+               this.btnLamMoi.Location = new System.Drawing.Point(436, 502);
                this.btnLamMoi.Margin = new System.Windows.Forms.Padding(4);
                this.btnLamMoi.Name = "btnLamMoi";
-               this.btnLamMoi.Size = new System.Drawing.Size(230, 80);
+               this.btnLamMoi.Size = new System.Drawing.Size(349, 83);
                this.btnLamMoi.TabIndex = 30;
                this.btnLamMoi.Text = "Làm mới";
                this.btnLamMoi.Click += new System.EventHandler(this.btnLamMoi_Click);
@@ -180,7 +180,7 @@
                this.btnDatPhong.Location = new System.Drawing.Point(24, 502);
                this.btnDatPhong.Margin = new System.Windows.Forms.Padding(4);
                this.btnDatPhong.Name = "btnDatPhong";
-               this.btnDatPhong.Size = new System.Drawing.Size(226, 83);
+               this.btnDatPhong.Size = new System.Drawing.Size(360, 83);
                this.btnDatPhong.TabIndex = 29;
                this.btnDatPhong.Text = "Đặt phòng";
                this.btnDatPhong.Click += new System.EventHandler(this.btnDatPhong_Click);

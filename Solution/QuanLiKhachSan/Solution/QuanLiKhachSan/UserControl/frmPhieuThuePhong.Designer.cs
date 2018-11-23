@@ -86,10 +86,10 @@
             this.colDiaChi,
             this.colXoa});
                this.dgvDanhSachPhieuThue.GridColor = System.Drawing.SystemColors.ButtonHighlight;
-               this.dgvDanhSachPhieuThue.Location = new System.Drawing.Point(253, 400);
+               this.dgvDanhSachPhieuThue.Location = new System.Drawing.Point(308, 400);
                this.dgvDanhSachPhieuThue.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
                this.dgvDanhSachPhieuThue.Name = "dgvDanhSachPhieuThue";
-               this.dgvDanhSachPhieuThue.Size = new System.Drawing.Size(981, 347);
+               this.dgvDanhSachPhieuThue.Size = new System.Drawing.Size(816, 347);
                this.dgvDanhSachPhieuThue.TabIndex = 28;
                // 
                // colTenKhachHang
@@ -135,7 +135,7 @@
                this.label6.Name = "label6";
                this.label6.Size = new System.Drawing.Size(677, 64);
                this.label6.TabIndex = 27;
-               this.label6.Text = "PHIẾU THUÊ PHÒNG";
+               this.label6.Text = "PHIẾU THUÊ";
                this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
                // 
                // cmbLoaiKhachHang
@@ -166,7 +166,7 @@
                this.groupBox2.Size = new System.Drawing.Size(580, 276);
                this.groupBox2.TabIndex = 26;
                this.groupBox2.TabStop = false;
-               this.groupBox2.Text = "Thông tin khách thuê";
+               this.groupBox2.Text = "Thông tin khách";
                // 
                // txtDiaChi
                // 
@@ -214,9 +214,9 @@
                this.label9.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.label9.Location = new System.Drawing.Point(24, 48);
                this.label9.Name = "label9";
-               this.label9.Size = new System.Drawing.Size(152, 24);
+               this.label9.Size = new System.Drawing.Size(97, 24);
                this.label9.TabIndex = 8;
-               this.label9.Text = "Tên khách hàng";
+               this.label9.Text = "Họ và tên";
                // 
                // label7
                // 
@@ -224,9 +224,9 @@
                this.label7.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.label7.Location = new System.Drawing.Point(24, 144);
                this.label7.Name = "label7";
-               this.label7.Size = new System.Drawing.Size(92, 24);
+               this.label7.Size = new System.Drawing.Size(155, 24);
                this.label7.TabIndex = 10;
-               this.label7.Text = "Số CMND";
+               this.label7.Text = "Mã thẻ căn cước";
                // 
                // label8
                // 
@@ -234,9 +234,9 @@
                this.label8.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.label8.Location = new System.Drawing.Point(24, 98);
                this.label8.Name = "label8";
-               this.label8.Size = new System.Drawing.Size(155, 24);
+               this.label8.Size = new System.Drawing.Size(151, 24);
                this.label8.TabIndex = 9;
-               this.label8.Text = "Loại khách hàng";
+               this.label8.Text = "Loại khách thuê";
                // 
                // label1
                // 
@@ -264,9 +264,9 @@
                this.label4.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.label4.Location = new System.Drawing.Point(30, 209);
                this.label4.Name = "label4";
-               this.label4.Size = new System.Drawing.Size(147, 24);
+               this.label4.Size = new System.Drawing.Size(86, 24);
                this.label4.TabIndex = 3;
-               this.label4.Text = "Ngày trả phòng";
+               this.label4.Text = "Ngày trả";
                // 
                // label3
                // 
@@ -274,9 +274,9 @@
                this.label3.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.label3.Location = new System.Drawing.Point(30, 154);
                this.label3.Name = "label3";
-               this.label3.Size = new System.Drawing.Size(162, 24);
+               this.label3.Size = new System.Drawing.Size(101, 24);
                this.label3.TabIndex = 2;
-               this.label3.Text = "Ngày thuê phòng";
+               this.label3.Text = "Ngày thuê";
                // 
                // txtLoaiPhong
                // 
@@ -337,7 +337,7 @@
                this.groupBox1.Size = new System.Drawing.Size(570, 276);
                this.groupBox1.TabIndex = 25;
                this.groupBox1.TabStop = false;
-               this.groupBox1.Text = "Thông tin phiếu thuê";
+               this.groupBox1.Text = "Chi tiết phiếu";
                // 
                // btnThoat
                // 
@@ -352,7 +352,7 @@
                this.btnThoat.Appearance.Options.UseForeColor = true;
                this.btnThoat.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Office2003;
                this.btnThoat.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnThoat.ImageOptions.Image")));
-               this.btnThoat.Location = new System.Drawing.Point(64, 674);
+               this.btnThoat.Location = new System.Drawing.Point(66, 662);
                this.btnThoat.Margin = new System.Windows.Forms.Padding(2);
                this.btnThoat.Name = "btnThoat";
                this.btnThoat.Size = new System.Drawing.Size(140, 73);

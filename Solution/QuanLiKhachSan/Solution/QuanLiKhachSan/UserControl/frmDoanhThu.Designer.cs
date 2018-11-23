@@ -64,7 +64,7 @@
                // label2
                // 
                this.label2.AutoSize = true;
-               this.label2.Location = new System.Drawing.Point(432, 99);
+               this.label2.Location = new System.Drawing.Point(400, 98);
                this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
                this.label2.Name = "label2";
                this.label2.Size = new System.Drawing.Size(57, 24);
@@ -111,15 +111,15 @@
                this.cmbThang.Location = new System.Drawing.Point(167, 95);
                this.cmbThang.Margin = new System.Windows.Forms.Padding(4);
                this.cmbThang.Name = "cmbThang";
-               this.cmbThang.Size = new System.Drawing.Size(197, 32);
+               this.cmbThang.Size = new System.Drawing.Size(198, 32);
                this.cmbThang.TabIndex = 19;
                // 
                // txtNam
                // 
-               this.txtNam.Location = new System.Drawing.Point(497, 95);
+               this.txtNam.Location = new System.Drawing.Point(465, 95);
                this.txtNam.Margin = new System.Windows.Forms.Padding(4);
                this.txtNam.Name = "txtNam";
-               this.txtNam.Size = new System.Drawing.Size(178, 32);
+               this.txtNam.Size = new System.Drawing.Size(210, 32);
                this.txtNam.TabIndex = 20;
                // 
                // txtTongTien

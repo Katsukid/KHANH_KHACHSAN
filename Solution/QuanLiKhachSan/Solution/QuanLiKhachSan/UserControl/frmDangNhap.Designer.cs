@@ -132,10 +132,10 @@
                this.btnHuy.Appearance.Options.UseForeColor = true;
                this.btnHuy.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Office2003;
                this.btnHuy.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnHuy.ImageOptions.Image")));
-               this.btnHuy.Location = new System.Drawing.Point(425, 452);
+               this.btnHuy.Location = new System.Drawing.Point(370, 452);
                this.btnHuy.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
                this.btnHuy.Name = "btnHuy";
-               this.btnHuy.Size = new System.Drawing.Size(147, 60);
+               this.btnHuy.Size = new System.Drawing.Size(202, 60);
                this.btnHuy.TabIndex = 15;
                this.btnHuy.Text = "Exit";
                this.btnHuy.Click += new System.EventHandler(this.btnHuy_Click);
@@ -154,7 +154,7 @@
                this.btnDangNhap.Location = new System.Drawing.Point(114, 452);
                this.btnDangNhap.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
                this.btnDangNhap.Name = "btnDangNhap";
-               this.btnDangNhap.Size = new System.Drawing.Size(157, 60);
+               this.btnDangNhap.Size = new System.Drawing.Size(204, 60);
                this.btnDangNhap.TabIndex = 14;
                this.btnDangNhap.Text = "Login";
                this.btnDangNhap.Click += new System.EventHandler(this.btnDangNhap_Click);

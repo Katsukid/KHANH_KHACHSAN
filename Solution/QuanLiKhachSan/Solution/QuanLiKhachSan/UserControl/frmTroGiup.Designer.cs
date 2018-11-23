@@ -45,7 +45,7 @@
                // label3
                // 
                this.label3.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-               this.label3.Location = new System.Drawing.Point(41, -1);
+               this.label3.Location = new System.Drawing.Point(62, 9);
                this.label3.Name = "label3";
                this.label3.Size = new System.Drawing.Size(238, 39);
                this.label3.TabIndex = 17;
@@ -57,7 +57,7 @@
                this.label2.BackColor = System.Drawing.Color.Transparent;
                this.label2.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.label2.ForeColor = System.Drawing.SystemColors.ControlText;
-               this.label2.Location = new System.Drawing.Point(578, 47);
+               this.label2.Location = new System.Drawing.Point(492, 43);
                this.label2.Name = "label2";
                this.label2.Size = new System.Drawing.Size(127, 39);
                this.label2.TabIndex = 16;
@@ -70,7 +70,7 @@
                this.linkLabel1.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.linkLabel1.ForeColor = System.Drawing.SystemColors.Desktop;
                this.linkLabel1.LinkColor = System.Drawing.Color.Black;
-               this.linkLabel1.Location = new System.Drawing.Point(766, 47);
+               this.linkLabel1.Location = new System.Drawing.Point(492, 94);
                this.linkLabel1.Name = "linkLabel1";
                this.linkLabel1.Size = new System.Drawing.Size(265, 39);
                this.linkLabel1.TabIndex = 14;
@@ -81,9 +81,9 @@
                // label1
                // 
                this.label1.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-               this.label1.Location = new System.Drawing.Point(24, 49);
+               this.label1.Location = new System.Drawing.Point(29, 49);
                this.label1.Name = "label1";
-               this.label1.Size = new System.Drawing.Size(465, 33);
+               this.label1.Size = new System.Drawing.Size(323, 33);
                this.label1.TabIndex = 10;
                this.label1.Text = "Liên hệ để nhận thêm trợ giúp";
                this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -91,7 +91,7 @@
                // pictureBox4
                // 
                this.pictureBox4.Image = global::QuanLiKhachSan.Properties.Resources.CopyRight32x32;
-               this.pictureBox4.Location = new System.Drawing.Point(12, -1);
+               this.pictureBox4.Location = new System.Drawing.Point(33, 13);
                this.pictureBox4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
                this.pictureBox4.Name = "pictureBox4";
                this.pictureBox4.Size = new System.Drawing.Size(23, 23);
@@ -102,7 +102,7 @@
                // pictureBox2
                // 
                this.pictureBox2.Image = global::QuanLiKhachSan.Properties.Resources.gmail;
-               this.pictureBox2.Location = new System.Drawing.Point(711, 47);
+               this.pictureBox2.Location = new System.Drawing.Point(431, 94);
                this.pictureBox2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
                this.pictureBox2.Name = "pictureBox2";
                this.pictureBox2.Size = new System.Drawing.Size(37, 39);
@@ -113,7 +113,7 @@
                // pictureBox1
                // 
                this.pictureBox1.Image = global::QuanLiKhachSan.Properties.Resources.phone;
-               this.pictureBox1.Location = new System.Drawing.Point(535, 47);
+               this.pictureBox1.Location = new System.Drawing.Point(431, 43);
                this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
                this.pictureBox1.Name = "pictureBox1";
                this.pictureBox1.Size = new System.Drawing.Size(37, 39);
@@ -126,18 +126,18 @@
                this.label4.BackColor = System.Drawing.Color.Transparent;
                this.label4.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
                this.label4.ForeColor = System.Drawing.SystemColors.ControlText;
-               this.label4.Location = new System.Drawing.Point(217, 109);
+               this.label4.Location = new System.Drawing.Point(8, 94);
                this.label4.Name = "label4";
-               this.label4.Size = new System.Drawing.Size(531, 31);
+               this.label4.Size = new System.Drawing.Size(387, 50);
                this.label4.TabIndex = 19;
-               this.label4.Text = "Tên tài khoản và mật khẩu đăng nhập hệ thống là: admin";
+               this.label4.Text = "Tài khoản và mật khẩu mặc định: admin";
                this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
                // 
                // frmTroGiup
                // 
                this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
                this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-               this.ClientSize = new System.Drawing.Size(968, 153);
+               this.ClientSize = new System.Drawing.Size(688, 153);
                this.Controls.Add(this.label4);
                this.Controls.Add(this.pictureBox4);
                this.Controls.Add(this.label3);

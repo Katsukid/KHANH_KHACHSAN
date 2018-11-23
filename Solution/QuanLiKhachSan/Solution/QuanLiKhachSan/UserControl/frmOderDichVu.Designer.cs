@@ -186,7 +186,7 @@
                this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
                this.MaximizeBox = false;
                this.Name = "frmOderDichVu";
-               this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+               this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
                this.Text = "Order dịch vụ";
                this.Load += new System.EventHandler(this.frmOderDichVu_Load);
                ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
